@@ -28,6 +28,23 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Trabalho de Conclusão de curso
+### Trabalho de Conclusão de curso (TCC) do curso de Engenharia de Computação - PUC Minas
 
-Self-driving vehicle using reinforcement learning
+Carro autônomos usando aprendizado por reforço / Self-driving vehicle using reinforcement learning
+
+Link para vídeos referentes ao TCC, contêm vídeo de trechos do treinamento e avaliação. Confira:
+[Vídeos TCC](https://www.youtube.com/watch?v=f4Hz3lZtmhk&list=PLljxEpOIiRQFhtGT3EnYfBKGye0Gn0ymK)
+
+### Mobile - Android
+## Calculadora para viagem de amigos
+
+Uma calculadora para realizar a divisão dos custos de combustível e gastos adicionais de uma viagem entre amigos.
+
+Versão 1
+- Android Nativo
+
+Versão 2
+- Flutter
+
+Versão 3
+- Android Nativo (Kotlin)
